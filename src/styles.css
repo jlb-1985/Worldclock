@@ -117,6 +117,7 @@ width: 100%;
     h1 {
         font-size: 36px;
         letter-spacing: 20px;
+        text-align: center;
     }
 
     select {
@@ -127,6 +128,8 @@ width: 100%;
     .container {
         padding: 20px;
         border-radius: 50%;
+        width: 250px;
+        height: 250px;
     }
 
     .city {
@@ -157,5 +160,9 @@ width: 100%;
 
     .time {
         font-size: 20px;
+    }
+
+    footer {
+      text-align: center; 
     }
 }
